@@ -32,9 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: Localização
   social: 
-  credits: Credits
+  credits: Créditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,7 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Sia
+  - line: SIA Sul Quadra 04 C Bloco E Entrada 09 Sobreloja 11
+  - line: CEP.: 71200-050
   - line: Brasília - Brasil
 
 # Credits content
