@@ -48,6 +48,8 @@ social:
 #    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/4flyers
+  -title: instagram
+    url: https://www.instagram.com/4flyersbr/
 
 # Postal address (add as many lines as necessary)
 address:
