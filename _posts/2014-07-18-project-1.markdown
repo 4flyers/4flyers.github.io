@@ -1,7 +1,7 @@
 ---
 layout: default
-date: 2014-07-18
-img: facebook_RPi.png
+date: 2016-06-09
+img: portfolio_raspi.png
 alt: image-alt
 project-date: do 12 ao 15 de julho de 2016
 category: Cursos
