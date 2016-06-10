@@ -4,9 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: do 12 ao 15 de julho de 2016
+category: Cursos
+description: Quer aprender a utilizar o incrível Raspberry Pi e não sabe por onde começar? A 4flyers, em parceria com a <a href="http://www.huinfinito.com.br/">Hu Infinito</a> estão oferecendo o Curso Básico de Raspberry Pi para você. Esse projeto foi desenvolvido com muito carinho para você sair do curso totalmente habititado a criar inúmeros projetos. Ficou curioso? Visite a página do curso <a href="http://www.huinfinito.com.br/kits/1098-curso-basico-de-raspberry-pi-3.html">saiba mais</a> e saiba mais!
 
 ---
