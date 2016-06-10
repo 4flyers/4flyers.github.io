@@ -109,10 +109,11 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+/*onde esta a logo completa da 4f*/
 @media(min-width:768px) {
     header .container {
         padding-top: 170px;
-        padding-bottom: 100px;
+        padding-bottom: 150px;
     }
 
     header .intro-text .name {
