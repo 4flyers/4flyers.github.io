@@ -41,7 +41,7 @@ hr.star-light,
 hr.star-primary {
     margin: 20px auto 25px;
     padding: 0;
-    max-width: 250px;
+    max-width: 25px;
     border: 0;
     border-top: solid 5px;
     text-align: center;
@@ -87,7 +87,7 @@ header {
 }
 
 header .container {
-    padding-top: 10px;
+    padding-top: 100px;
     padding-bottom: 50px;
 }
 
