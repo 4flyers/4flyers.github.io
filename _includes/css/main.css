@@ -112,7 +112,7 @@ header .intro-text .skills {
 /*onde esta a logo completa da 4f*/
 @media(min-width:768px) {
     header .container {
-        padding-top: 170px;
+        padding-top: 200px;
         padding-bottom: 150px;
     }
 
