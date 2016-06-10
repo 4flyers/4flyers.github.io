@@ -4,7 +4,7 @@ title: Automação
 modal-id: 3
 date: 2014-07-16
 img: portfolio_automacao.png
-img_on_post: cake.png
+img_on_post: portfolio_automacao_news.png
 alt: image-alt
 description: Tem um novo produto chegando. Aguarde novidades!
 
