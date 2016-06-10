@@ -34,12 +34,12 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: 'Lora', 'Times New Roman', serif;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
+    margin: 20px auto 25px;
     padding: 0;
     max-width: 250px;
     border: 0;
