@@ -59,21 +59,21 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #{{ site.color.primary }};
-}
-
-hr.star-light:after {
-    color: #{{ site.color.primary }}
-    background-color: #fff;
-}
-
-hr.star-primary {
     border-color: #fff;
 }
 
-hr.star-primary:after {
+hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
+}
+
+hr.star-primary {
+    border-color: #{{ site.color.secondary }};
+}
+
+hr.star-primary:after {
+    color: #{{ site.color.secondary }};
+    background-color: #fff;
 }
 
 .img-centered {
@@ -183,8 +183,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background: #fff;
 }
 
 @media(max-width:767px) {
