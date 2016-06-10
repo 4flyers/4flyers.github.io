@@ -132,8 +132,9 @@ header .intro-text .skills {
         transition: padding .3s;
     }
 
+    /*! 4flyers at the navbar*/
     .navbar-fixed-top .navbar-brand {
-        font-size: 20em;
+        font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
