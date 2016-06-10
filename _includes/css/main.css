@@ -59,12 +59,12 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #{{ site.color.logo_black }};
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #{{ site.color.primary }};
+    color: #{{ site.color.logo_black }};
+    background-color: #fff;
 }
 
 hr.star-primary {
