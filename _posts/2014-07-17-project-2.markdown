@@ -8,6 +8,6 @@ img_on_post: portfolio_raspi_projects.png
 alt: image-alt
 project-date: Sempre
 category: Idéias
-Idéia 1: <a href="https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant">Jarvis - Inteligência Artificial em casa</a>
+description: Idéia 1: <a href="https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant">Jarvis - Inteligência Artificial em casa</a>
 
 ---
