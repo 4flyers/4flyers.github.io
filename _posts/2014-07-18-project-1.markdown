@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: facebook_RPi.png
 alt: image-alt
 project-date: do 12 ao 15 de julho de 2016
 category: Cursos
