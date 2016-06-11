@@ -358,10 +358,10 @@ footer .footer-col {
     margin-bottom: 50px;
 }
 
-/*cor do*/
+/* Nos copyrights */
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-social {
