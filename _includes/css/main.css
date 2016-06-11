@@ -431,17 +431,19 @@ footer .footer-below {
     opacity: .3;
 }
 
+/*ao abrir o projeto temos um X para sair aqui definimos a cor de um dos tracos do x*/
 .portfolio-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 
+/*cor do outro traço do X*/
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
@@ -452,8 +454,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+/* Dentro do post do projeto, essa é a cor do hyperlink*/
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.secondary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
