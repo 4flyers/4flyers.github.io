@@ -454,9 +454,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-/* Dentro do post do projeto, essa é a cor do hyperlink*/
+/* Dentro do post do projeto, essa é a cor do */
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary }} !important;
+    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 /* Fix modal mouse wheel issues */
