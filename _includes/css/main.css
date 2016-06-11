@@ -173,9 +173,11 @@ header .intro-text .skills {
     border: 0;
 }
 
+/*Colocar/trocar informacoes aqui para projetos e fale conosco*/
 section {
     padding: 100px 0;
-    background:  #{{ site.color.secondary }};
+    color: #fff;
+    background: #{{ site.color.secondary }};
 }
 
 section h2 {
