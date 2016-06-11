@@ -127,13 +127,15 @@ header .intro-text .skills {
     }
 }
 
+/*change colors of the navbar*/
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-        background: #fff;
+        color: #fff;
+        background: #{{ site.color.primary }};
     }
 
     /*! 4flyers at the navbar*/
