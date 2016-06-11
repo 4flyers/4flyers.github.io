@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #fff;
+    color: #{{ site.color.primary }};
 }
 
 /*! Titles (i.g. Projetos, Sobre)*/
@@ -99,7 +99,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family:  'Lora', 'Times New Roman', serif;
+    font-family: 'Lora', 'Times New Roman', serif;
     font-size: 2em;
     font-weight: 500;
 }
@@ -152,7 +152,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Lora', 'Times New Roman', serif;
     font-weight: 700;
 }
 
