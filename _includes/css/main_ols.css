@@ -415,7 +415,7 @@ footer .footer-below {
     right: 25px;
     width: 75px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: transparent;
     cursor: pointer;
 }
 
