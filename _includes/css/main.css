@@ -82,7 +82,7 @@ hr.star-primary:after {
 /*Principal - onde tem a logo da 4flyers*/
 header {
     text-align: center;
-    color: #f3009c;
+    color: #{{ site.color.secondary }};
     background: #fff;
 }
 
