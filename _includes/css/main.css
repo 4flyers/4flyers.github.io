@@ -361,7 +361,7 @@ footer .footer-col {
 /*cor do link*/
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-social {
