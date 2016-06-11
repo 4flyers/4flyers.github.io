@@ -127,7 +127,7 @@ header .intro-text .skills {
     }
 }
 
-/*change colors of the navbar*/
+/*change colors of the navbar - coloquei color+background*/
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -351,13 +351,14 @@ footer h3 {
 /* pé de pagina cor e tamanho */
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 footer .footer-col {
     margin-bottom: 50px;
 }
 
+/*cor do link*/
 footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
