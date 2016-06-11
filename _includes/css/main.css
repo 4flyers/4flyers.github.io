@@ -351,8 +351,7 @@ footer h3 {
 /* pé de pagina cor e tamanho (added color)*/
 footer .footer-above {
     padding-top: 50px;
-    color: #{{ site.color.primary }};
-    background-color: #fff;
+    background-color: #{{ site.color.secondary }};
 }
 
 footer .footer-col {
