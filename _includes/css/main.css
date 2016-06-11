@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 /*! Titles (i.g. Projetos, Sobre)*/
@@ -275,7 +275,7 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
-/*o que acontece com o icone quando o mouse passa por cima*/
+/*o que acontece com o icone das redes sociais quando o mouse passa por cima*/
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
@@ -470,6 +470,7 @@ footer .footer-below {
 
 /*Cores dos menus quando estao selecionados/ativados*/
 .navbar-nav>.active>a {
+    color: #fff;
     background-color: #{{ site.color.secondary }} !important;
 }
 
