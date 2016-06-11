@@ -89,6 +89,7 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
+    background: #f3009c;
 }
 
 header img {
