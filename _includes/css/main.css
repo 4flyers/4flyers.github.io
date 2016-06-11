@@ -68,7 +68,7 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: transparent;
 }
 
 hr.star-primary:after {
