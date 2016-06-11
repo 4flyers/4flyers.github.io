@@ -89,7 +89,6 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-    background: #f3009c;
 }
 
 header img {
@@ -176,6 +175,7 @@ header .intro-text .skills {
 
 section {
     padding: 100px 0;
+    background:  #{{ site.color.secondary }};
 }
 
 section h2 {
