@@ -67,11 +67,12 @@ hr.star-light:after {
     background-color: #fff;
 }
 
+/*linhas em torno de estrela de projetos e fale conosco*/
 hr.star-primary {
-    border-color: transparent;
+    border-color: #fff;
 }
 
-/* Estre*/
+/* Estrela de projetos e fale conosco*/
 hr.star-primary:after {
     color: #fff;
     background-color: #{{ site.color.secondary }};
