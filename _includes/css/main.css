@@ -68,9 +68,10 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: transparente;
+    border-color: transparent;
 }
 
+/* Estre*/
 hr.star-primary:after {
     color: #fff;
     background-color: #{{ site.color.secondary }};
