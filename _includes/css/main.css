@@ -333,11 +333,13 @@ section.success {
     opacity: 1;
 }
 
+/*nos campos de fale conosco essa é a cor de nome, email, mensagem quando começamos a escrever*/
 .floating-label-form-group-with-focus label {
-    color: #f3009c;
+    color: #{{ site.color.primary }};
 }
 
 form .row:first-child .floating-label-form-group {
+    color: #fff;
     border-top: 1px solid #eee;
 }
 
