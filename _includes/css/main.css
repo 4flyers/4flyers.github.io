@@ -257,6 +257,7 @@ section.success {
     }
 }
 
+/*cores dos icones das redes sociais*/
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
@@ -435,7 +436,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
