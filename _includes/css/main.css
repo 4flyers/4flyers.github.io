@@ -226,6 +226,7 @@ section.success {
     opacity: 1;
 }
 
+/*cor da lupa quando passamos o mouse*/
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
@@ -260,7 +261,7 @@ section.success {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+    color: #{{ site.color.primary }};
     background: 0 0;
     transition: all .3s ease-in-out;
 }
