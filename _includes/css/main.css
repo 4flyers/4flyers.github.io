@@ -280,7 +280,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background: #fff;
 }
 
@@ -467,9 +467,8 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-/*Cores dos menus quando estao selecionados/ativados - adicionei color*/
+/*Cores dos menus quando estao selecionados/ativados*/
 .navbar-nav>.active>a {
-    color: #{{ site.color.secondary }};
     background-color: #{{ site.color.secondary }} !important;
 }
 
