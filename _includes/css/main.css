@@ -467,8 +467,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-/*Cores dos menus quando estao selecionados/ativados*/
+/*Cores dos menus quando estao selecionados/ativados - adicionei color*/
 .navbar-nav>.active>a {
+    color: #{{ site.color.secondary }};
     background-color: #{{ site.color.secondary }} !important;
 }
 
