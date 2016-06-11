@@ -268,7 +268,7 @@ section.success {
 /*cores dos icones das redes sociais*/
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #{{ site.color.secondary }};
+    border: solid 2px #000;
     font-size: 20px;
     color: #{{ site.color.secondary }};
     background: 0 0;
