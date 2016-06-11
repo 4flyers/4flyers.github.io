@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
 }
 
 /*! Titles (i.g. Projetos, Sobre)*/
@@ -275,6 +275,7 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
+/*o que acontece com o icone quando o mouse passa por cima*/
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
