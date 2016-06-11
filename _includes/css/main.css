@@ -133,6 +133,7 @@ header .intro-text .skills {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        background: #fff;
     }
 
     /*! 4flyers at the navbar*/
@@ -463,7 +464,7 @@ footer .footer-below {
 
 /*Cores dos menus quando estao selecionados/ativados*/
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.secondary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
