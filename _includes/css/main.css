@@ -334,7 +334,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #f3009c;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -468,9 +468,8 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-/*Cores dos menus quando estao selecionados/ativados*/
+/*Cores dos menus quando estao ativados*/
 .navbar-nav>.active>a {
-    color: #fff;
     background-color: #{{ site.color.secondary }} !important;
 }
 
