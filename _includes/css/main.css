@@ -477,9 +477,6 @@ footer .footer-below {
     background-color: #{{ site.color.secondary }} !important;
 }
 
-.navbar-nav>a:hover {
-    color: #fff;
-}
 
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
