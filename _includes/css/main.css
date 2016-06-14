@@ -147,11 +147,11 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top li a:hover {
+    .navbar-fixed-top a:hover {
         color: #{{ site.color.secondary }};
         outline: 0;
     }
-    
+
     .navbar-fixed-top.navbar-shrink {
         padding: 1px 0;
     }
