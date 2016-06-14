@@ -167,20 +167,11 @@ header .intro-text .skills {
     outline: 0;
 }
 
-
-.navbar-fixed-top .navbar-brand li a:hover {
-    color: #{{ site.color.secondary }};
-}
-
-.navbar-fixed-top .navbar-brand li a:focus {
-    color: #fff;
-}
-
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
 
-/*color of the words when hover */
+/*color of the words when hover added*/
 .navbar .navbar-nav li a:hover {
     color: #{{ site.color.secondary }};
     outline: 0;
