@@ -477,7 +477,7 @@ footer .footer-below {
     background-color: #{{ site.color.secondary }} !important;
 }
 
-.navbar-nav>.focus>a {
+.navbar-nav>.hover>a {
     background-color: #{{ site.color.secondary }} !important;
 }
 
