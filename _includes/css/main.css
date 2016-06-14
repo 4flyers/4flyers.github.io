@@ -148,14 +148,6 @@ header .intro-text .skills {
         color: #fff;
     }
 
-    .navbar-fixed-top .navbar-brand li a:hover {
-        color: #{{ site.color.secondary }};
-    }
-
-    .navbar-fixed-top .navbar-brand li a:focus {
-        color: #fff;
-    }
-
     .navbar-fixed-top.navbar-shrink {
         padding: 1px 0;
     }
@@ -173,6 +165,15 @@ header .intro-text .skills {
 
 .navbar a:focus {
     outline: 0;
+}
+
+
+.navbar-fixed-top .navbar-brand li a:hover {
+    color: #{{ site.color.secondary }};
+}
+
+.navbar-fixed-top .navbar-brand li a:focus {
+    color: #fff;
 }
 
 .navbar .navbar-nav {
