@@ -478,7 +478,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.hover>a {
-    background-color: #{{ site.color.secondary }} !important;
+    color: #fff;
 }
 
 /* Fix modal mouse wheel issues */
