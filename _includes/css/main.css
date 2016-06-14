@@ -477,7 +477,7 @@ footer .footer-below {
     background-color: #{{ site.color.secondary }} !important;
 }
 
-.navbar-nav>.hover>a {
+.navbar-nav>a:hover {
     color: #fff;
 }
 
