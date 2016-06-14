@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="portfolio_automação.svg"
-   inkscape:export-filename="/home/marcela/Projects/4Flyers/website_code/img/portfolio/portfolio_raspi.png"
+   inkscape:export-filename="/home/marcela/Projects/4Flyers/website_code/img/portfolio/portfolio_automacao.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="98.183613"
-     inkscape:cy="413.0529"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="224.92565"
+     inkscape:cy="410.42081"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,8 +84,23 @@
        d="m 651.42857,248.57143 c 0,141.22709 -114.48718,255.71428 -255.71428,255.71428 -141.22709,0 -255.71427,-114.48719 -255.71427,-255.71428 0,-141.2271 114.48718,-255.7142828 255.71427,-255.7142828 141.2271,0 255.71428,114.4871828 255.71428,255.7142828 z"
        transform="matrix(1.0011173,0,0,1.0011173,53.843574,478.51302)" />
     <text
+       inkscape:export-filename="/home/marcela/Projects/4Flyers/website_code/img/portfolio/portfolio_raspi.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       sodipodi:linespacing="125%"
+       id="text4034"
+       y="864.44977"
+       x="455.23126"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:50px;font-weight:500;fill:#808080;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium"
+         y="864.44977"
+         x="455.23126"
+         id="tspan4036"
+         sodipodi:role="line">AUTOMAÇÃO</tspan></text>
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cfcece;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="451.23126"
        y="860.44977"
        id="text7082"
@@ -97,7 +112,7 @@
          id="tspan7084"
          x="451.23126"
          y="860.44977"
-         style="font-size:50px;font-weight:500;fill:#cfcece;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">AUTOMAÇÃO</tspan></text>
+         style="font-size:50px;font-weight:500;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Ubuntu Medium">AUTOMAÇÃO</tspan></text>
     <g
        id="g7723"
        transform="translate(0.9098232,-34.247457)">
