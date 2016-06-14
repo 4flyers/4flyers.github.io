@@ -145,7 +145,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        color: #{{site.color.secondary}};
+        color: #fff;
     }
 
     .navbar-fixed-top .navbar-brand li a:hover {
