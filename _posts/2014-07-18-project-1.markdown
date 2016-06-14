@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Curso Básico de Raspberry Pi
+modal-id: 1
 date: 2016-06-09
 img: portfolio_raspi.png
 img_on_post: facebook_RPi.png
