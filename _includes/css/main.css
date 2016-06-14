@@ -147,11 +147,6 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top a:hover {
-        color: #{{ site.color.secondary }};
-        outline: 0;
-    }
-
     .navbar-fixed-top.navbar-shrink {
         padding: 1px 0;
     }
@@ -165,6 +160,11 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 500;
+}
+
+.navbar a:focus {
+    color: #{{ site.color.secondary }};
+    outline: 0;
 }
 
 .navbar a:focus {
