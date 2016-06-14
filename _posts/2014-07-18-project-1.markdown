@@ -7,19 +7,6 @@ img_on_post: facebook_RPi.png
 alt: image-alt
 project-date: do 12 ao 15 de julho de 2016
 category: Cursos
-description: Quer aprender a utilizar o incrível Raspberry Pi e não sabe por onde começar? A 4flyers, em parceria com a <a href="http://www.huinfinito.com.br/">Hu Infinito</a> estão oferecendo o Curso Básico de Raspberry Pi para você. Esse projeto foi desenvolvido com muito carinho para você sair do curso totalmente habilitado a criar inúmeros projetos. Ficou curioso? Visite a página do curso e <a href="http://www.huinfinito.com.br/kits/1098-curso-basico-de-raspberry-pi-3.html">saiba mais</a>! <br/><br/> Quer dicas de projetos com o Raspberry Pi, ou está curioso para saber qual o seu potencial? Visite a nossa página de <div class="row">
-                {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
-                    </div>
-                {% endfor %}
-            </div> e leia mais.
+description: Quer aprender a utilizar o incrível Raspberry Pi e não sabe por onde começar? A 4flyers, em parceria com a <a href="http://www.huinfinito.com.br/">Hu Infinito</a> estão oferecendo o Curso Básico de Raspberry Pi para você. Esse projeto foi desenvolvido com muito carinho para você sair do curso totalmente habilitado a criar inúmeros projetos. Ficou curioso? Visite a página do curso e <a href="http://www.huinfinito.com.br/kits/1098-curso-basico-de-raspberry-pi-3.html">saiba mais</a>! <br/><br/> Quer dicas de projetos com o Raspberry Pi, ou está curioso para saber qual o seu potencial? Visite a nossa página de <a href="#portfolioModal-{{ 2014-07-17-project-2.markdown.modal-id }}"  class="portfolio-link" data-toggle="modal">Projetos com o Raspberry Pi</a> e leia mais.
 
 ---
