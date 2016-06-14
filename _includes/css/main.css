@@ -473,11 +473,8 @@ footer .footer-below {
 }
 
 /*Cores dos menus quando estao ativados*/
-.navbar-nav>.focus>a,
-.navbar-nav>.hover>a,
-.navbar-nav>.active>a,
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary }} !important;
+    background-color: #{{ site.color.secondary }};
 }
 
 
