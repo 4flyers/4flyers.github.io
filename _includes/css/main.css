@@ -147,7 +147,7 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top .navbar-brand li a:hover {
+    .navbar-fixed-top .navbar-brand a:hover {
         color: #{{ site.color.secondary }};
         outline: 0;
     }
