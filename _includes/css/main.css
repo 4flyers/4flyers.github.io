@@ -16,13 +16,14 @@ p.small {
     font-size: 16px;
 }
 
+/*cor dos links*/
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 /*! Titles (i.g. Projetos, Sobre)*/
@@ -134,7 +135,7 @@ header .intro-text .skills {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-        color: #fff;
+        color: #{{ site.color.primary }};
         background: #{{ site.color.primary }};
     }
 
