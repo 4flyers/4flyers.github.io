@@ -475,7 +475,10 @@ footer .footer-below {
 /*Cores dos menus quando estao ativados*/
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary }} !important;
-    color: #{{ site.color.secondary }};
+}
+
+.navbar-nav>.focus>a {
+    background-color: #{{ site.color.secondary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
