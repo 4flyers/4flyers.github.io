@@ -162,7 +162,7 @@ header .intro-text .skills {
     font-weight: 500;
 }
 
-.navbar a:focus {
+.navbar a:hover {
     color: #{{ site.color.secondary }};
     outline: 0;
 }
