@@ -145,6 +145,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        color: #{{ site.color.secondary }};
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -168,11 +169,6 @@ header .intro-text .skills {
 
 .navbar .navbar-nav {
     letter-spacing: 1px;
-}
-
-
-.navbar-fixed-top .navbar-brand li a:hover {
-    color: #{{ site.color.secondary }};
 }
 
 /*color of the words when hover */
