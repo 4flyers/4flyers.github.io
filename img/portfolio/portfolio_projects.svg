@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="108.08793"
-     inkscape:cy="296.04205"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-177.9197"
+     inkscape:cy="223.39458"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -630,36 +630,36 @@
     <text
        sodipodi:linespacing="125%"
        id="text4012"
-       y="553.54132"
-       x="451.0433"
-       style="font-size:35.08740233999999703px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#916f6f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       y="548.77765"
+       x="451.11298"
+       style="font-size:37.48142242px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#916f6f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         style="font-size:43.85925673999999930px;font-weight:500;-inkscape-font-specification:Ubuntu Medium;fill:#916f6f"
-         y="553.54132"
-         x="451.0433"
+         style="font-size:46.85177994px;font-weight:500;fill:#916f6f;-inkscape-font-specification:Ubuntu Medium"
+         y="548.77765"
+         x="451.11298"
          id="tspan4014"
          sodipodi:role="line">PROJETOS</tspan><tspan
          id="tspan4016"
-         style="font-size:43.85925673999999930px;font-weight:500;-inkscape-font-specification:Ubuntu Medium;fill:#916f6f"
-         y="608.36542"
-         x="451.0433"
+         style="font-size:46.85177994px;font-weight:500;fill:#916f6f;-inkscape-font-specification:Ubuntu Medium"
+         y="607.34235"
+         x="451.11298"
          sodipodi:role="line">RASPBERRY PI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:35.08740234px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff7f04;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="449.0433"
-       y="551.54132"
+       style="font-size:37.48142242px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff7f04;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="448.97653"
+       y="546.64117"
        id="text7082"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7084"
-         x="449.0433"
-         y="551.54132"
-         style="font-size:43.85925674px;font-weight:500;-inkscape-font-specification:Ubuntu Medium">PROJETOS</tspan><tspan
+         x="448.97653"
+         y="546.64117"
+         style="font-size:46.85177994px;font-weight:500;-inkscape-font-specification:Ubuntu Medium">PROJETOS</tspan><tspan
          sodipodi:role="line"
-         x="449.0433"
-         y="606.36542"
-         style="font-size:43.85925674px;font-weight:500;-inkscape-font-specification:Ubuntu Medium"
+         x="448.97653"
+         y="605.20593"
+         style="font-size:46.85177994px;font-weight:500;-inkscape-font-specification:Ubuntu Medium"
          id="tspan3903">RASPBERRY PI</tspan></text>
   </g>
 </svg>

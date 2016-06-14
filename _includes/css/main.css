@@ -174,10 +174,11 @@ header .intro-text .skills {
     outline: 0;
 }
 
+/*color of the words when hover */
 .navbar .navbar-nav li a:hover {
     color: #{{ site.color.secondary }};
 }
-
+    
 .navbar-default,
 .navbar-inverse {
     border: 0;
