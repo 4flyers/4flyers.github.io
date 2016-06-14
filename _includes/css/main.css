@@ -177,6 +177,7 @@ header .intro-text .skills {
 /*color of the words when hover */
 .navbar .navbar-nav li a:hover {
     color: #{{ site.color.secondary }};
+    outline: 0;
 }
     
 .navbar-default,
