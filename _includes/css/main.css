@@ -172,7 +172,6 @@ header .intro-text .skills {
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
-    color: #fff;
 }
 
 .navbar-default,
@@ -476,6 +475,7 @@ footer .footer-below {
 /*Cores dos menus quando estao ativados*/
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary }} !important;
+    color: #{{ site.color.secondary }}
 }
 
 /* Fix modal mouse wheel issues */
