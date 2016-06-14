@@ -145,16 +145,15 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        color: #{{site.color.secondary}};
     }
 
     .navbar-fixed-top .navbar-brand li a:hover {
         color: #{{ site.color.secondary }};
-        outline: 0;
     }
 
     .navbar-fixed-top .navbar-brand li a:focus {
         color: #{{ site.color.secondary }};
-        outline: 0;
     }
 
     .navbar-fixed-top.navbar-shrink {
