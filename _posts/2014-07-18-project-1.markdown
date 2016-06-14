@@ -8,6 +8,6 @@ img_on_post: facebook_RPi.png
 alt: image-alt
 project-date: do 12 ao 15 de julho de 2016
 category: Cursos
-description: Quer aprender a utilizar o incrível Raspberry Pi e não sabe por onde começar? A 4flyers, em parceria com a <a href="http://www.huinfinito.com.br/">Hu Infinito</a> estão oferecendo o Curso Básico de Raspberry Pi para você. Esse projeto foi desenvolvido com muito carinho para você sair do curso totalmente habilitado a criar inúmeros projetos. Ficou curioso? Visite a página do curso e <a href="http://www.huinfinito.com.br/kits/1098-curso-basico-de-raspberry-pi-3.html">saiba mais</a>! <br/><br/> Quer dicas de projetos com o Raspberry Pi, ou está curioso para saber qual o seu potencial? Visite a nossa página de Projetos com o Raspberry Pi e leia mais.
+description: Quer aprender a utilizar o incrível Raspberry Pi e não sabe por onde começar? A 4flyers, em parceria com a <a href="http://www.huinfinito.com.br/">Hu Infinito</a> estão oferecendo o Curso Básico de Raspberry Pi para você. Esse projeto foi desenvolvido com muito carinho para você sair do curso totalmente habilitado a criar inúmeros projetos. Ficou curioso? Visite a página do curso e <a href="http://www.huinfinito.com.br/kits/1098-curso-basico-de-raspberry-pi-3.html">saiba mais</a>! <br/><br/> Quer dicas de projetos com o Raspberry Pi, ou está curioso para saber qual o seu potencial? Visite a nossa página de <strong>Projetos com o Raspberry Pi</strong> e leia mais.
 
 ---
