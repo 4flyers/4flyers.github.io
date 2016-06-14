@@ -176,7 +176,7 @@ header .intro-text .skills {
 
 .navbar .navbar-nav li a:hover {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #fff;
 }
 
 .navbar-default,
