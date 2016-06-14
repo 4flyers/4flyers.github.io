@@ -147,6 +147,11 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
+    .navbar-fixed-top li a:hover {
+        color: #{{ site.color.secondary }};
+        outline: 0;
+    }
+    
     .navbar-fixed-top.navbar-shrink {
         padding: 1px 0;
     }
@@ -162,13 +167,7 @@ header .intro-text .skills {
     font-weight: 500;
 }
 
-.navbar a:hover {
-    color: #{{ site.color.secondary }};
-    outline: 0;
-}
-
 .navbar a:focus {
-    color: #fff;
     outline: 0;
 }
 
