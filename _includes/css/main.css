@@ -135,7 +135,7 @@ header .intro-text .skills {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-        color: #{{ site.color.primary }};
+        color: #fff;
         background: #{{ site.color.primary }};
     }
 
