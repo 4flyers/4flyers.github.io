@@ -171,7 +171,6 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
-
 /*color of the words when hover added*/
 .navbar .navbar-nav li a:hover {
     color: #{{ site.color.secondary }};
