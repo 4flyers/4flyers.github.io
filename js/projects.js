@@ -4,6 +4,7 @@ function callOtherProjects(modal_id){
         var imgproj2 = document.createElement("img");
         imgproj2.src = "img/projects/{{ post.imgproj2 }}"
     }
+    document.write("Hello World!");
 }
 
 
