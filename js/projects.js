@@ -1,6 +1,6 @@
 
 function callOtherProjects(){
-    document.write("Hello World! Ok?");
+    document.write("Hello World!");
 }
 
 
