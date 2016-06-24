@@ -23,8 +23,8 @@
                                 {% for img in site.static_files %}
                                     {% if img.path contains imgBasePath %}
                                         <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                                        {% assign descriptionWithIndex = "description" |  append: "1" %}
-                                        <p>{{ post.description1 }}<p>
+                                        {% assign descriptionWithIndex = "description1" %}
+                                        <p>{{ post.descriptionWithIndex }}<p>
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}
