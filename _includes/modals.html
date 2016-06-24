@@ -25,7 +25,7 @@
                                         <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                         {% assign index = 1 %}
                                         {% assign descriptionWithIndex = "post.description" |  append: "index" %}
-                                        <p> descriptionWithIndex <p>
+                                        <p> {{descriptionWithIndex}} <p>
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}
