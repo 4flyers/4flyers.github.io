@@ -9,12 +9,12 @@ project-date: Sempre
 category: Ideias
 
 img_on_post: JarvisProject.png
-description1: <a href="https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant"><strong>Jarvis - Inteligência Artificial em casa (em inglês)</strong></a> <br/><br/> <strong>Descrição:</strong> esse projeto promete utilisar uma solução baseada em Inteligência Artificial (IA) para reduzir o consumo de energia de sua casa e para oferecer um assistente pessoal artificial. As decisões são tomadas de acordo com o ambiente. Por exemplo, o seu novo assistente é capaz de ativar a máquina de café antes do usuário acordar, ou pode receber ordens como para apagar todas as luzes da casa.
+description: <a href="https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant"><strong>Jarvis - Inteligência Artificial em casa (em inglês)</strong></a> <br/><br/> <strong>Descrição:</strong> esse projeto promete utilisar uma solução baseada em Inteligência Artificial (IA) para reduzir o consumo de energia de sua casa e para oferecer um assistente pessoal artificial. As decisões são tomadas de acordo com o ambiente. Por exemplo, o seu novo assistente é capaz de ativar a máquina de café antes do usuário acordar, ou pode receber ordens como para apagar todas as luzes da casa.
 
 imgproj2: console.jpg
-description2: <a href="http://www.techtudo.com.br/noticias/noticia/2015/04/internautas-criam-videogame-portatil-usando-raspberry-pi-saiba-como.html"><strong>Videogame portátil</strong></a> <br/><br/> <strong>Descrição:</strong> uma idéia criativa para os fãs de videogame que querem desenvolver a própria console portátil.
+description: <a href="http://www.techtudo.com.br/noticias/noticia/2015/04/internautas-criam-videogame-portatil-usando-raspberry-pi-saiba-como.html"><strong>Videogame portátil</strong></a> <br/><br/> <strong>Descrição:</strong> uma idéia criativa para os fãs de videogame que querem desenvolver a própria console portátil.
 
 imgproj3: impressora.jpg
-description3: <a href="http://www.techtudo.com.br/noticias/noticia/2015/02/impressora-feita-com-raspberry-pi-e-economica-e-nao-usa-tinta-conheca.html"><strong>Impressora econômica</strong> </a> <br/><br/> <strong>Descrição:</strong> Pipsta é uma impressora térmica compacta, silenciosa e simples de usar que pode ser criada a partir de um Raspberry Pi. O modelo, que não faz o uso de tinta, promete ser mais um sucesso entre os desenvolvedores e amadores que gostam de projetos de construção utilizando o microcomputador.
+description: <a href="http://www.techtudo.com.br/noticias/noticia/2015/02/impressora-feita-com-raspberry-pi-e-economica-e-nao-usa-tinta-conheca.html"><strong>Impressora econômica</strong> </a> <br/><br/> <strong>Descrição:</strong> Pipsta é uma impressora térmica compacta, silenciosa e simples de usar que pode ser criada a partir de um Raspberry Pi. O modelo, que não faz o uso de tinta, promete ser mais um sucesso entre os desenvolvedores e amadores que gostam de projetos de construção utilizando o microcomputador.
 
 ---
