@@ -13,6 +13,7 @@ img_1: JarvisProject.png
 description_1: <strong>Descrição:</strong> esse projeto promete utilisar uma solução baseada em Inteligência Artificial (IA) para reduzir o consumo de energia de sua casa e para oferecer um assistente pessoal artificial. As decisões são tomadas de acordo com o ambiente. Por exemplo, o seu novo assistente é capaz de ativar a máquina de café antes do usuário acordar, ou pode receber ordens como para apagar todas as luzes da casa.
 
 img_2: console.jpg
+smt: 2
 description_2: <strong>Descrição:</strong> uma idéia criativa para os fãs de videogame que querem desenvolver a própria console portátil.
 
 
