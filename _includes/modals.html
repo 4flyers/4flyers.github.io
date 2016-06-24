@@ -16,7 +16,7 @@
                             <hr class="star-light">
                             <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
-                            {% assign imgPrefName = post.imgPath %}
+                            {% assign imgPrefName = "projectsPi" %}
                             {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
                             {% for img in site.static_files %}
                                 {% if img.path contains imgBasePath %}
