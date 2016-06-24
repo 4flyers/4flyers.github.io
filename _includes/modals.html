@@ -17,14 +17,6 @@
                             {% if post.modal-id != 2 %}
                                 <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                 <p>{{ post.description }}</p>
-                            {% elsif %}
-                                {% assign imgPrefName = "projectsPi" %}
-                                {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
-                                {% for img in site.static_files %}
-                                    {% if img.path contains imgBasePath %}
-                                        <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                                    {% endif %}
-                                {% endfor %}
                             {% endif %}
                             <ul class="list-inline item-details">
                                 <li>Data:
