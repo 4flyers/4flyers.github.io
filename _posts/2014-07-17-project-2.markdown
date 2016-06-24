@@ -14,6 +14,7 @@ description_1: <strong>Descrição:</strong> esse projeto promete utilisar uma s
 
 post_title_2:<a href="http://www.techtudo.com.br/noticias/noticia/2015/04/internautas-criam-videogame-portatil-usando-raspberry-pi-saiba-como.html"><strong>Videogame portátil</strong></a>
 img_2: console.jpg
-description_2: <strong>Descrição:</strong> uma idéia criativa para os fãs de videogame que querem desenvolve
+description_2: <strong>Descrição:</strong> uma idéia criativa para os fãs de videogame que querem desenvolver a própria console portátil.
+
 
 ---
