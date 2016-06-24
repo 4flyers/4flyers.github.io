@@ -1,9 +1,5 @@
 
-function callOtherProjects(modal_id){
-    if(modal_id == 2){
-        var imgproj2 = document.createElement("img");
-        imgproj2.src = "img/projects/{{ post.imgproj2 }}"
-    }
+function callOtherProjects(){
     document.write("Hello World!");
 }
 
