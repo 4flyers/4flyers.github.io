@@ -7,7 +7,6 @@ img: portfolio_raspi_projects.png
 alt: image-alt
 project-date: Sempre
 category: Ideias
-imgPath = projectsPi
 
 img_on_post: JarvisProject.png
 description: <a href="https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant"><strong>Jarvis - Inteligência Artificial em casa (em inglês)</strong></a> <br/><br/> <strong>Descrição:</strong> esse projeto promete utilisar uma solução baseada em Inteligência Artificial (IA) para reduzir o consumo de energia de sua casa e para oferecer um assistente pessoal artificial. As decisões são tomadas de acordo com o ambiente. Por exemplo, o seu novo assistente é capaz de ativar a máquina de café antes do usuário acordar, ou pode receber ordens como para apagar todas as luzes da casa.
