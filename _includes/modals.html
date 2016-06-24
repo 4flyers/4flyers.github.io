@@ -18,14 +18,13 @@
                                 <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                 <p>{{ post.description }}</p>
                             {% else %}
-                                {% assign imgPrefName = "projectsPi" %}
-                                {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
+                                {% assign imgBasePath = "/img/projectsPi" %}
                                 {% for img in site.static_files %}
                                     {% if img.path contains imgBasePath %}
                                         <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                         {% assign index = 1 %}
-                                        {% assign descriptionWithIndex = "post.description" |  append: "index" %}
-                                        <p> {{descriptionWithIndex}} <p>
+                                        {% assign descriptionWithIndex = post.description%}
+                                        <p> {{ descriptionWithIndex[{{1}}] }} <p>
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}
