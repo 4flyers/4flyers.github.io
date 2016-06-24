@@ -16,15 +16,15 @@
                             <hr class="star-light">
                             {% if post.modal-id != 2 %}
                                 <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                                <p>{{ post.description1 }}</p>
+                                <p>{{ post.description }}</p>
                             {% else %}
                                 {% assign imgPrefName = "projectsPi" %}
                                 {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
                                 {% for img in site.static_files %}
                                     {% if img.path contains imgBasePath %}
                                         <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                                        {% assign descriptionWithIndex = "description1" %}
-                                        <p>{{ post.{{descriptionWithIndex}} }}<p>
+                                        {% assign descriptionWithIndex = "post.description1" %}
+                                        <p>{{ descriptionWithIndex }}<p>
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}
