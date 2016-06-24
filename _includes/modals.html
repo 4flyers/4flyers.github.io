@@ -17,19 +17,6 @@
                             {% if post.modal-id != 2 %}
                                 <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                 <p>{{ post.description }}</p>
-                            {% else %}
-                                <p>{{post.post_title_1}}<p>
-                                 <img src="img/projectsPi/{{ post.img_1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">   
-                                <p>{{post.description_1}}<p>
-
-                                <p>{{post.post_title_2}}<p>
-                                 <img src="img/projectsPi/{{ post.img_2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">   
-                                <p>{{post.description_2}}<p>
-
-                                <p>{{post.post_title_3}}<p>
-                                <img src="img/projectsPi/{{ post.img_3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">   
-                                <p>{{post.description_3}}<p>
-                            {% endif %}
                             <ul class="list-inline item-details">
                                 <li>Data:
                                     <strong> {{ post.project-date }}
