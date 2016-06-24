@@ -24,7 +24,7 @@
                                     {% if img.path contains imgBasePath %}
                                         <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                         {% assign descriptionWithIndex = "description" |  append: "1" %}
-                                        <p>{{ post.{{ descriptionWithIndex }} }}<p>
+                                        <p>{{ post.description1 }}<p>
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}
