@@ -18,6 +18,11 @@
                             <p>{{ post.description }}</p>
                             {% assign imgPrefName = post.imgPath %}
                             {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
+                            {% for img in site.static_files %}
+                                {% if img.path contains imgBasePath %}
+                                    <img src="{{site.baseurl}}{{img.path}}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                {% endif %}
+                            {% endfor %}
                             Hello! Ok!
                             <ul class="list-inline item-details">
                                 <li>Data:
