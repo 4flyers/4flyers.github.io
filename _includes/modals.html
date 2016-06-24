@@ -12,11 +12,13 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
-                            <hr class="star-light">
-                            <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            {% if post.modal-id == 2 %}
+
+                            {% if post.modal-id != 2 %}
+                                <h2>{{ post.title }}</h2>
+                                <hr class="star-light">
+                                <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                <p>{{ post.description }}</p>
+                            {% elsif %}
                                 {% assign imgPrefName = "projectsPi" %}
                                 {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
                                 {% for img in site.static_files %}
