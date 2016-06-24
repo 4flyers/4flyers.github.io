@@ -1,5 +1,4 @@
  <!-- Portfolio Modals -->
- <script src="{{ "/js/projects.js" }}"></script>
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -17,9 +16,8 @@
                             <hr class="star-light">
                             <img src="img/portfolio/{{ post.img_on_post }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
-                            <script type="text/javascript">
-                                callOtherProjects();
-                            </script>
+                            {% assign imgPrefName = "projectsPi" %}
+                            {% assign imgBasePath = imgPrefName | prepend: "/img/" %}
                             Hello!
                             <ul class="list-inline item-details">
                                 <li>Data:
