@@ -58,8 +58,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-177.9197"
-     inkscape:cy="223.39458"
+     inkscape:cx="66.537214"
+     inkscape:cy="273.90221"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -324,7 +324,7 @@
        sodipodi:cy="248.57143"
        sodipodi:rx="255.71428"
        sodipodi:ry="255.71428"
-       d="m 651.42857,248.57143 a 255.71428,255.71428 0 1 1 -511.42855,0 255.71428,255.71428 0 1 1 511.42855,0 z"
+       d="m 651.42857,248.57143 c 0,141.22709 -114.48718,255.71428 -255.71428,255.71428 -141.22709,0 -255.71427,-114.48719 -255.71427,-255.71428 0,-141.2271 114.48718,-255.7142828 255.71427,-255.7142828 141.2271,0 255.71428,114.4871828 255.71428,255.7142828 z"
        transform="matrix(1.0011173,0,0,1.0011173,53.843574,478.51302)" />
     <g
        id="g3958"
@@ -629,37 +629,37 @@
     </g>
     <text
        sodipodi:linespacing="125%"
-       id="text4012"
-       y="548.77765"
-       x="451.11298"
-       style="font-size:37.48142242px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#916f6f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="text6511"
+       y="539.12848"
+       x="450.68961"
+       style="font-size:37.48142242000000124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6c5353;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         style="font-size:46.85177994px;font-weight:500;fill:#916f6f;-inkscape-font-specification:Ubuntu Medium"
-         y="548.77765"
-         x="451.11298"
-         id="tspan4014"
-         sodipodi:role="line">PROJETOS</tspan><tspan
-         id="tspan4016"
-         style="font-size:46.85177994px;font-weight:500;fill:#916f6f;-inkscape-font-specification:Ubuntu Medium"
-         y="607.34235"
-         x="451.11298"
-         sodipodi:role="line">RASPBERRY PI</tspan></text>
+         id="tspan6513"
+         style="font-size:46.85177994000000012px;font-weight:500;-inkscape-font-specification:Ubuntu Medium;fill:#6c5353"
+         y="539.12848"
+         x="450.68961"
+         sodipodi:role="line">LINKS</tspan><tspan
+         id="tspan6515"
+         style="font-size:46.85177994000000012px;font-weight:500;-inkscape-font-specification:Ubuntu Medium;fill:#6c5353"
+         y="597.69318"
+         x="450.68961"
+         sodipodi:role="line">EXTERNOS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.48142242px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff7f04;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="448.97653"
-       y="546.64117"
+       x="448.68961"
+       y="537.12848"
        id="text7082"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan7084"
-         x="448.97653"
-         y="546.64117"
-         style="font-size:46.85177994px;font-weight:500;-inkscape-font-specification:Ubuntu Medium">PROJETOS</tspan><tspan
-         sodipodi:role="line"
-         x="448.97653"
-         y="605.20593"
+         x="448.68961"
+         y="537.12848"
          style="font-size:46.85177994px;font-weight:500;-inkscape-font-specification:Ubuntu Medium"
-         id="tspan3903">RASPBERRY PI</tspan></text>
+         id="tspan3903">LINKS</tspan><tspan
+         sodipodi:role="line"
+         x="448.68961"
+         y="595.69318"
+         style="font-size:46.85177994px;font-weight:500;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan6509">EXTERNOS</tspan></text>
   </g>
 </svg>
