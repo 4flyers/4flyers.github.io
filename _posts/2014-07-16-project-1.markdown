@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Automação
-modal-id: 3
+modal-id: 1
 date: 2014-07-16
 img: portfolio_automacao.png
 img_on_post: portfolio_automacao_news.png
