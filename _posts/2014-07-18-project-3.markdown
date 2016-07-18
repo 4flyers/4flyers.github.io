@@ -4,7 +4,7 @@ title: Curso Básico de Raspberry Pi
 modal-id: 1
 date: 2016-06-09
 img: portfolio_raspi.png
-img_on_post: facebook_RPi.png
+img_on_post: vagasesgotadas.png
 alt: image-alt
 project-date: do 12 ao 15 de julho de 2016
 category: Cursos
