@@ -2,7 +2,7 @@
 layout: default
 title: Curso Básico de Raspberry Pi
 modal-id: 3
-date: 2016-02-09
+date: 2016-02-16
 img: portfolio_raspi.png
 img_on_post: vagasesgotadas.png
 alt: image-alt
