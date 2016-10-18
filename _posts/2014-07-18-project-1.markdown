@@ -6,6 +6,6 @@ date: 2014-07-18
 img: portfolio_automacao.png
 img_on_post: portfolio_automacao_news.png
 alt: image-alt
-description: Entre em contato para solicitar seu orçamento em projetos de automação.
+description: NADA.
 
 ---
