@@ -1,12 +1,17 @@
 ---
 layout: default
-title: Projetos com Raspberry Pi
+title: Desenvolvimento
 modal-id: 2
 date: 2014-07-17
 img: desenvolvimento.png
 alt: image-alt
 project-date: Sempre
 category: Ideias
+
+
+
+
+<!---
 
 post_intro: Apresentamos aqui alguns projetos externos realizados com o Raspberry Pi.
 post_title_1: <a href="https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant"><strong>Jarvis - Inteligência Artificial em casa (em inglês)</strong></a>
@@ -21,4 +26,6 @@ post_title_3: <a href="http://www.techtudo.com.br/noticias/noticia/2015/02/impre
 img_3: impressora.jpg
 description_3: <strong>Descrição:</strong> Pipsta é uma impressora térmica compacta, silenciosa e simples de usar que pode ser criada a partir de um Raspberry Pi. O modelo, que não faz o uso de tinta, promete ser mais um sucesso entre os desenvolvedores e amadores que gostam de projetos de construção utilizando o microcomputador.
 
+
+-->
 ---
