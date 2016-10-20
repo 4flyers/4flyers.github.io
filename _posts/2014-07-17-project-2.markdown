@@ -3,7 +3,7 @@ layout: default
 title: Projetos com Raspberry Pi
 modal-id: 2
 date: 2014-07-17
-img: portfolio_raspi_projects.png
+img: desenvolvimento.png
 alt: image-alt
 project-date: Sempre
 category: Ideias
