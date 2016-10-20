@@ -6,6 +6,6 @@ date: 2014-07-18
 img: desenvolvimento.png
 img_on_post: portfolio_automacao_news.png
 alt: image-alt
-description: A 4flyers está atualmente em processo de desenvolvimento
+description: A 4flyers está atualmente em processo de desenvolvimento de um novo produto para o mercado. Em breve será possível automatizar suas lâmpadas de casa em um processo revolucionário! Sem reformas e com um preço bem abaixo do mercado, você terá o controle da iluminação de sua casa através de um smartphone, poderá acender ou apagar todas as lâmpadas com apenas um simples toque em um interruptor. Programar cenários de iluminação, horários de funcionamento de cada ponto de luz e triways virtuais são apenas algumas das vantagens de ter seu sistema de iluminação automatizado.E para isso bastará a substituição dos interruptores de sua casa. Entre em contato para ser um dos primeiros a adiquirir!
 
 ---
