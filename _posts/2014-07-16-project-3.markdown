@@ -6,12 +6,12 @@ date: 2014-07-16
 img: portfolio_raspi.png
 post_intro: Bla bla bla
 post_title_1: Ultimo curso
-post.img_1: curso3.png
+img_1: curso3.png
 description_1: Esse foi bem legal
 post_title_2: Segundo curso
-post.img_2: curso2.png
+img_2: curso2.png
 description_2: Esse também foi bem legal
 post_title_3: Primeiro curso
-post.img_3: curso1.jpg
+img_3: curso1.jpg
 description_3: Esse foi bem mais legal
 ---
