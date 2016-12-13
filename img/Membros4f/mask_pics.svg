@@ -18,18 +18,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="mask_pics.svg">
   <defs
-     id="defs4">
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask4193">
-      <circle
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.30339503px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="circle4195"
-         cx="285.71429"
-         cy="452.36221"
-         r="547.41974" />
-    </mask>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -37,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="579.74887"
-     inkscape:cy="520"
+     inkscape:zoom="0.175"
+     inkscape:cx="637.99928"
+     inkscape:cy="290.19336"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -12927,6 +12916,26 @@ C6BCKrOtNDZFJeBudtn8GzIlY3RxHcBinJCgRZoGgNO4tRtlTZrnjKkYAK9O/LP/2Q==
        preserveAspectRatio="none"
        height="1110"
        width="1485"
-       mask="url(#mask4193)" />
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3.30339503px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="path4136"
+       cx="285.71429"
+       cy="452.36221"
+       r="547.41974" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect4199"
+       width="1094.839"
+       height="1094.839"
+       x="1158.9686"
+       y="60.1614" />
+    <circle
+       r="547.41974"
+       cy="607.58087"
+       cx="1706.3882"
+       id="circle4197"
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.30339503px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
