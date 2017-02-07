@@ -20,4 +20,7 @@ descrip_3: Com os módulos Lua você não precisa automatizar toda sua casa de u
 title_4: Aplicativo
 descrip_4: O aplicativo que controla o sistema de automação com módulos Lua é de fácil utilização, personalizável de acordo com o que o usuário quiser e compatível com as plataformas Android e IOS. 
 
+title_5: Oi
+descrip_5: tchau
+
 ---
