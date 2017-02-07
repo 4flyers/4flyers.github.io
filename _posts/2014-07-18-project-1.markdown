@@ -23,7 +23,7 @@ descrip_4: O aplicativo que controla o sistema de automação com módulos Lua �
 title_5: Baixo custo
 descrip_5: O projeto Lua traz a idéia de que a automação deve estar ao alcance de todos. Com o barateamento dos módulos pretende-se atingir um maior público consumidor do que o atual mercado da automação residencial.
 
-title_6: Oi
-descrip_6: tchau
+title_6: Online
+descrip_6: Com o servidor na nuvem, é possível acionar e monitorar seu sistema de automação de qualquer lugar com acesso à internet.
 
 ---
