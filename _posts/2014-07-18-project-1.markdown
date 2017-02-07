@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automação
+title: Módulos de automação LUA
 modal-id: 1
 date: 2014-07-18
 img: portfolio_automacao.png
