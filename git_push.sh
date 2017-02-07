@@ -1,3 +1,5 @@
+git pull origin master
+
 git add -A
 
 echo 'enter message to commit'
