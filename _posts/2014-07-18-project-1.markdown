@@ -6,7 +6,7 @@ date: 2014-07-18
 img: portfolio_automacao.png
 img_on_post: prototipo_lua.png
 alt: image-alt
-post_intro: Automação residencial não é mais sinônimo de altos custos e muita mão de obra para instalação. Com os módulos Lua você passa a ter controle total de sua iluminação através do seu smartphone possibilitando agendamentos de acionamento e configuração de cenários de maneira fácil e rápida. E não pára por aí, os módulos Lua também são capazes de controlar o acionamento de bombas de piscina, motores de cortinas, abertura de portões de garagem e muito mais.
+post_intro: Automação residencial não é mais sinônimo de altos custos e muita mão de obra para instalação. Com os módulos Lua você passa a ter controle total de sua iluminação através do seu smartphone possibilitando agendamentos de acionamento e configuração de cenários de maneira fácil e rápida. E não para por aí, os módulos Lua também são capazes de controlar o acionamento de bombas de piscina, motores de cortinas, abertura de portões de garagem e muito mais.
 
 title_1: Sem central
 descrip_1: O sistema de automação implementado com a utilização dos módulos Lua é difuso, isto é, não necessita de uma central para funcionar.
