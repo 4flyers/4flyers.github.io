@@ -30,19 +30,16 @@
         [14,  4.2,  6.2,  3.4]
       ]);
 
-      var options = {
-        chart: {
-          title: 'Box Office Earnings in First Two Weeks of Opening',
-          subtitle: 'in millions of dollars (USD)'
-        },
-        width: 900,
-        height: 500
-      };
+var options = {
+          title: 'Company Performance',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
 
-      var chart = new google.charts.Line(document.getElementById('linechart_material'));
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
 
-      chart.draw(data, options);
-    }
+        chart.draw(data, options);
+      }
     </script>
   </head>
   <body>
