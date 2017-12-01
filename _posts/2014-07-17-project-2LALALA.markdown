@@ -1,4 +1,4 @@
----
+<!-----
 layout: default
 title: Desenvolvimento
 modal-id: 4
@@ -6,5 +6,5 @@ date: 2014-07-18
 img: desenvolvimento.png
 img_on_post: portfolio_automacao_news.png
 alt: image-alt
-description: <!--A 4flyers está atualmente em processo de desenvolvimento de um novo produto. Em breve será possível automatizar suas lâmpadas de casa de uma maneira revolucionária! Sem reformas e com um preço bem abaixo valor de mercado, você terá o controle da iluminação de sua casa através de um smartphone. Poderá acender ou apagar todas as lâmpadas com apenas um simples toque e muito mais. Programar cenários de iluminação, horários de funcionamento de cada ponto de luz e triways virtuais são apenas algumas das vantagens de ter seu sistema de iluminação automatizado. Entre em contato para ser um dos primeiros a adquirir!-->
----
+description: <!--A 4flyers está atualmente em processo de desenvolvimento de um novo produto. Em breve será possível automatizar suas lâmpadas de casa de uma maneira revolucionária! Sem reformas e com um preço bem abaixo valor de mercado, você terá o controle da iluminação de sua casa através de um smartphone. Poderá acender ou apagar todas as lâmpadas com apenas um simples toque e muito mais. Programar cenários de iluminação, horários de funcionamento de cada ponto de luz e triways virtuais são apenas algumas das vantagens de ter seu sistema de iluminação automatizado. Entre em contato para ser um dos primeiros a adquirir!
+--->
