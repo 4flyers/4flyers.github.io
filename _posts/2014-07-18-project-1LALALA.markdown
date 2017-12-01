@@ -1,4 +1,4 @@
----
+<!-----
 layout: default
 title: Módulos de automação LUA
 modal-id: 1
@@ -24,6 +24,6 @@ img: portfolio_automacao.png
 <!--descrip_5: O projeto Lua traz a idéia de que a automação deve estar ao alcance de todos. Com o barateamento dos módulos pretende-se atingir um maior público consumidor do que o atual mercado da automação residencial.-->
 
 <!--title_6: Online
-<!--descrip_6: Com o servidor na nuvem, é possível acionar e monitorar seu sistema de automação de qualquer lugar com acesso à internet.-->
+<!--descrip_6: Com o servidor na nuvem, é possível acionar e monitorar seu sistema de automação de qualquer lugar com acesso à internet.
 
----
+--->
