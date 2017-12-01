@@ -1,4 +1,4 @@
----
+<!-----
 layout: default
 title: Curso Básico de Internet das Coisas com Raspberry Pi
 modal-id: 2
@@ -17,4 +17,4 @@ description_3: Neste curso, foram apresentados para os alunos uma introdução a
 post_title_4: Curso Completo
 img_4: curso1.jpg
 description_4: A primeira edição do curso foi realizada de maneira completa. Os alunos tiveram aulas durante toda a semana e aprenderam desde os princípios básicos de sistemas embarcados até o controle das portas de propósito geral do Raspberry Pi.
----
+--->
